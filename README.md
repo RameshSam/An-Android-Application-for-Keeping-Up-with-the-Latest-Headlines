@@ -1,5 +1,8 @@
 # NaanMudhalvan_Project
 
+Project Name : 
+An Android Application for Keeping Up with the Latest Headlines
+
 
 Video Demonstration Link :  
 
