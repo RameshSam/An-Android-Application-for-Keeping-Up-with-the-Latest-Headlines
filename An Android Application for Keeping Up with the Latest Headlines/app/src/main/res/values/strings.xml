@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News Application</string>
+    <string name="title_activity_login_activity.kt">LoginActivity.kt</string>
+    <string name="title_activity_registration_activity.kt">RegistrationActivity.kt</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="title_activity_display_news">DisplayNews</string>
+    <string name="title_activity_main_page">Hello world</string>
+</resources>
